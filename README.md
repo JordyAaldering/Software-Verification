@@ -1,3 +1,3 @@
-# Strong Typing
+# Sofware Verification
 * Jordy Aaldering
 * Yannick Hogewind
