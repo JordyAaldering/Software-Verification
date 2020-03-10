@@ -1,3 +1,3 @@
-# Sofware Verification
+# Software Verification
 * Jordy Aaldering
 * Yannick Hogewind
